@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\adelin\desktop\poo - tema 3\poo - tema 3\main.cpp(31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\adelin\desktop\poo - tema 3\poo - tema 3\main.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Matrix.cpp
+  Generating Code...
+c:\users\adelin\desktop\poo - tema 3\poo - tema 3\matrix.cpp(289): warning C4715: 'Matrix<float>::determinant': not all control paths return a value
+  POO - Tema 3.vcxproj -> C:\Users\Adelin\Desktop\POO - Tema 3\Debug\POO - Tema 3.exe
