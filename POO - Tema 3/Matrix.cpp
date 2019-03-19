@@ -294,6 +294,6 @@ bool Matrix<T>::isInvertible()
 {
 	if (determinant())
 		return true;
-	else
-		return false;
+	
+        return false;
 }
